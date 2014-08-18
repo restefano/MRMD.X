@@ -1,0 +1,7 @@
+_main: CODE, 65308 0 12
+__initialization: CODE, 65302 0 0
+_OpenTimer2: CODE, 65320 0 28
+_OpenTimer4: CODE, 65348 0 28
+_Configura_IO: CODE, 65376 0 42
+_Habilita_PWM: CODE, 65418 0 118
+Total: 228
